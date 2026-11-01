@@ -4,10 +4,9 @@ oweb studio products documentations.
 
 ## Contact
 
-- **Ask question**: contact@owebstudio.com
-- **Get support**: support@owebstudio.com
+- **Ask a question or get support**: contact@owebstudio.com
 - **Report an issue**
-  - support@owebstudio.com
+  - contact@owebstudio.com
   - https://github.com/owebstudio/support
 
 ## Plugins
